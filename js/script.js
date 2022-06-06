@@ -20,6 +20,11 @@ console.log(obj);
 }
 
 console.log(name);
+'use strict';
+a = 15;
+console.log(a);
 
+console.log(name);
+'use strict';
 a = 15;
 console.log(a);
